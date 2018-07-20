@@ -25,3 +25,12 @@ body {
 color: red;
 background: green;
 font-weight: 400;
+text-indent: 3mm;
+text-indent: 40px;
+}
+
+.play {
+  font-size: 30px;
+  font-weight: bold;
+  background: grey;
+}
