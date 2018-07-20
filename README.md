@@ -16,8 +16,15 @@ To get started with this project, clone the project onto the location of choice 
 
 ## Built With
 
+- [HTML] - For creating Web pages
+- [Bootstrap bootstrap-4.0.0-dist.zip - The front end framework
+- CSS - To create Style sheets
+- jquery - For functionality of the game
+-kindly before starting you need to try if your code links with css and js are
+working well , for instance give the background a lavendar color or plums or ready, proceed to js and set an alert like hallo world so as to have a running base from the beginning.
 
 
 ## Authors
 
 * **JAMES MACHARIA** 
+* **JAMES MACHARIA**
