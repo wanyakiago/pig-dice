@@ -11,3 +11,17 @@ body {
   text-indent: 5em;
    background: powderblue;
    text-align: center;
+}
+
+.px {
+  color: blue;
+  font-variant: small-caps;
+  background: plum;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+#max {
+color: red;
+background: green;
+font-weight: 400;
