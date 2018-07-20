@@ -34,3 +34,11 @@ text-indent: 40px;
   font-weight: bold;
   background: grey;
 }
+
+#tap {
+  text-decoration-color:#581845;
+  font-size: 27px;
+  background: #344cff;
+
+}
+
