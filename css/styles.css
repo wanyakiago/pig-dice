@@ -2,3 +2,12 @@ body {
   background-color: lavendar;
   background-image: url("../img/dices.jpg");
   padding: 5em 0;
+
+}
+#pig {
+  color: #fff;
+  font-size: 100px;
+  font-weight: 400;
+  text-indent: 5em;
+   background: powderblue;
+   text-align: center;
