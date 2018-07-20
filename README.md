@@ -25,6 +25,4 @@ working well , for instance give the background a lavendar color or plums or rea
 
 
 ## Authors
-
-* **JAMES MACHARIA** 
 * **JAMES MACHARIA**
