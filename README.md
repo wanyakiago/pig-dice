@@ -13,9 +13,11 @@ You need the following to view the files on your computer.
 
 ```
 -A computer running on either Windows, MacOS or Ubuntu operating system.
+-You need the following to view the files on your computer.
+-A computer running on either Windows, Macros or Ubuntu operating system.
 -Web Browser
--text  Editor
-```
+-text  Editor, ie visual studio code, atom io, sublime text,
+
 
 ## Built With
 
