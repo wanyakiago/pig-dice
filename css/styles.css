@@ -66,3 +66,8 @@ text-indent: 40px;
   font-weight:lighter;
 }
 #roll {
+  font-size: 42px;
+}
+#Hold {
+  background: powder#ff5733;
+}
