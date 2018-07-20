@@ -43,7 +43,7 @@ $(document).ready(function() {
     var player1 = new Player("Player 1");
     var player2 = new Player("Player 2");
 
-    
+
     var currentTurn = new Turn(player1);
 
     var total = currentTurn.total;
@@ -72,7 +72,7 @@ $(document).ready(function() {
         $('#roll-total').text(currentTurn.total);
 
         //Determines the winner and prints player score to page
-        if ((currentTurn.total + currentTurn.player.score) >= 100) {
+        if ((currentTurn.total + currentTurn.player.score) >= 50) {
             if (currentTurn.player == player1) {
                 $('#player1-score').text(currentTurn.total + currentTurn.player.score);
                 alert("You are the winner!");

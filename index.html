@@ -1,19 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Pig Dice</title>
-    <link rel="icon" type="img/jpg" href="img/dice.jpeg" />
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/styles.css">
+  <meta charset="UTF-8">
+  <title>Pig Dice</title>
+  <link rel="icon" type="img/jpg" href="img/dice.jpeg" />
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <link rel="stylesheet" href="css/styles.css">
 
 </head>
+
 <body>
-             <div style="text-align: center">
-    <h1>Pig Dice</h1>
-                 <a href="start.html"><button class="home">Click me to play buddy!</button></a>
-             </div>
-<script src="js/jquery-3.3.1.js"></script>
-<script src="js/scripts.js"></script>
+  <img src="img/last.jpg" alt="">
+  <div style="text-align: center" id="hd">
+    <h1 id="pig">Pig Dice</h1>
+    <div class="col-md-12">
+      <p class="px">Lets play</p>
+      <h2 id="max">Maximum score is 50</h2>
+    </div>
+
+    <div class="col-md-6">
+      <button class="button1"><span class="play">Player1:</span><span id="player1-score"></span></button>
+    </div>
+
+    <div class="col-md-6">
+      <button class="button2"><span class="play">Player2:</span><span id="player2-score"></span></button>
+    </div>
+    <p id="tap">Total:<span id="roll-total"></span></p>
+    <p id="cur">Current Roll:<span id="roll"></span></p>
+    <form id="roller">
+      <button class="btn btn-info" id="Roll">Roll</button>
+    </form>
+    <form id="end-turn">
+      <button id="Hold" class="btn btn-success">Hold</button>
+    </form>
+  </div>
+  <script src="js/jquery-3.3.1.js"></script>
+  <script src="js/scripts.js"></script>
 </body>
+
 </html>
