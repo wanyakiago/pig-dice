@@ -42,3 +42,27 @@ text-indent: 40px;
 
 }
 
+#tap. h1 {
+  color: #fff;
+}
+
+#Roll-total {
+  font-size: 28px;
+  font-weight:bold;
+  background: #fff;
+
+}
+
+
+#cur {
+  background: #fff;
+  font-size: 24px;
+  font-weight: 100;
+
+}
+#roller {
+  background: black;
+  font-size: 40px;
+  font-weight:lighter;
+}
+#roll {
