@@ -16,10 +16,6 @@ To get started with this project, clone the project onto the location of choice 
 
 ## Built With
 
-* [HTML] - For creating Web pages
-* [Bootstrap 3.3.7] - The front end framework
-* CSS - To create Style sheets
-* jquery - For functionality of the game
 
 
 ## Authors
